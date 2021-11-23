@@ -1,0 +1,17 @@
+# This file is used for storing all the credentials of the user. 
+# Data in this file will be stored in the following format,
+
+{
+    "Amazon": {
+        "Email": "dummy_email@gmail.com",
+        "Password": ")S&ymX$tjKb$c00"
+    },
+    "Twitter": {
+        "Email": "dummy_email@gmail.com",
+        "Password": "jx!p*F52H&6oju"
+    },
+    "Reddit": {
+        "Email": "dummy_email@gmail.com",
+        "Password": "r&K8va&aBGk6rO"
+    }
+}
